@@ -7,8 +7,3 @@ The problem statement is given in problem.pdf
 You can also refer to the report in this repo in which we have discussed our approach to the problem.
 
 The dataset for this asssignment was a set of youtube videos. The links to these videos can be found in the problem statement.
-
-
-The activations directory contains images that we generated for visualising the activation values for the hidden layers of our model.
-
-
